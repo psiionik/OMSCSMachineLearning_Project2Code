@@ -1,6 +1,6 @@
 # Obtaining the Code
 
-You can obtain the code here: https://github.com/psiionik/MachineLearning_Project2Code
+You can obtain the code here: https://github.com/psiionik/OMSCSMachineLearning_Project2Code
 
 These are all Jupyter Notebook files so you should be able to setup your environment for all the necessary packages and run `jupyter notebook` and look at the individual .ipynb files and run them.
 
